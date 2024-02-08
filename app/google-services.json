@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "273167444242",
+    "firebase_url": "https://securityrtcs-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "securityrtcs",
+    "storage_bucket": "securityrtcs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273167444242:android:6665ff6691903e9cf52bcb",
+        "android_client_info": {
+          "package_name": "com.example.securityrtcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273167444242-3ahimkkg4t5sgb3klmguc442lkcoj6rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCriJdm4Pd_ffDG5i7OmRgvLLbkxzxt8Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273167444242-3ahimkkg4t5sgb3klmguc442lkcoj6rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

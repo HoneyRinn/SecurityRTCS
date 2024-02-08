@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/eyeFragment"
+        android:icon="@drawable/ic_baseline_control_camera_24"
+        android:title="@string/fragment_eye" />
+
+    <item
+        android:id="@+id/moveFragment"
+        android:icon="@drawable/ic_baseline_notification_important_24"
+        android:title="@string/fragment_move" />
+
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/title_settings" />
+
+</menu>

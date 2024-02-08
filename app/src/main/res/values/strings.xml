@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">РТЦС Защита</string>
+    <string name="title_activity_bottom_nav">BottomNavActivity</string>
+    <string name="title_settings">Настройки</string>
+    <string name="fragment_eye">Датчики</string>
+    <string name="fragment_move">Активность</string>
+</resources>
